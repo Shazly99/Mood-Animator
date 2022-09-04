@@ -1,4 +1,6 @@
 # Mood-Animator
 JavaScript HTML DOM Animation
  
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
